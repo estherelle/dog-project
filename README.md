@@ -107,3 +107,4 @@ When you are ready to submit your project, collect the following files and compr
 
 Alternatively, your submission could consist of the GitHub link to your repository.
 # dog-project
+# dog-project
